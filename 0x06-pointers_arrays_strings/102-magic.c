@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - magic
- * Return: Always 0 (Success)
- */
-
 int main(void)
 {
 	int n;
@@ -15,6 +10,8 @@ int main(void)
 	p = &n;
 /*
  * write your line of code here...
+ * main - magic
+ * Return: Always 0 (Success)
  * Remember:
  * - you are not allowed to use a
  * - you are not allowed to modify p
